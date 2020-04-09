@@ -10,6 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>HotItemsAnalysis</module>
+        <module>MarketAnalysis</module>
+        <module>NetworkFlowAnalysis</module>
+        <module>OrderPayDetect</module>
+        <module>LoginFail</module>
     </modules>
     <properties>
         <flink.version>1.7.2</flink.version>
